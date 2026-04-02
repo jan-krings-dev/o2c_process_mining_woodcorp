@@ -1,7 +1,6 @@
 # Woodcorp Order-to-Cash (O2C) Process Analysis  
 **BI-Reporting · Prozessanalyse · Entscheidungsunterstützung**
 
-**Rolle:** Junior Data / Business Analyst  
 **Fokus:** Order-to-Cash · KPI-Logik · Execution Analysis  
 **Tools:** Celonis · Python (Pandas)  
 **Projektart:** Showcase-Projekt (synthetische Daten)
@@ -13,7 +12,9 @@
 - Analyse eines Order-to-Cash-Prozesses mit Fokus auf operative Abweichungen nach Order Release  
 - Ziel: Identifikation von Ursachen für Verzögerungen und Instabilität in der Ausführung  
 - Ergebnis: strukturierte Priorisierung von Execution Gaps nach Impact und Relevanz  
-- Mehrwert: Ableitung konkreter, umsetzbarer Maßnahmen für operative Steuerung  
+- Mehrwert: Ableitung konkreter, umsetzbarer Maßnahmen für operative Steuerung
+
+[Zur Präsentation](results/presentation/Jan_Krings_O2C_Process_Analysis.pdf)
 
 ---
 
